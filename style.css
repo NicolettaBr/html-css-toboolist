@@ -26,7 +26,7 @@ body{
 
 main{
     background-color:#e3e3e3;
-    height: 500px;
+    height: 600px;
 }
 
 /* button*/
@@ -67,7 +67,7 @@ main{
    margin-top: 1px;
     padding: 20px;
     background-color: white;
-    height: 400px;
+    height: 500px;
     
 
 }
@@ -75,14 +75,54 @@ main{
 ul{
     list-style-type: none;
     font-family: Arial;
-    font-weight: 600;
+    font-weight: 800;
     color: #4f4f4f;
 }
 
-.sottolista{
+.sottolista li{
     list-style-type: none;
     font-family: Arial;
-    font-weight: 300;
+    font-weight: 600;
     color: #4f4f4f;
     font-size: 15px;
+    padding: 5px;
+    line-height: 20px;
+}
+
+li button{
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    border: none;
+    margin: 5px;
+    font-size: 10px;
+
+}
+
+li{
+    padding: 10px;
+}
+
+.botton3{
+    background-color: #5c8aed ;
+}
+
+.botton4{
+    background-color:#b04ad9 ;
+}
+
+.botton5{
+    background-color:#469e6c ;
+}
+
+.botton6{
+    background-color:#eb9823 ;
+}
+
+.botton7{
+    background-color: #eb237d;
+}
+
+.botton8{
+    background-color:#add413 ;
 }
