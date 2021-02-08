@@ -69,3 +69,18 @@ main{
     background-color: white;
     height: 400px;
 }
+
+ul{
+    list-style-type: none;
+    font-family: Arial;
+    font-weight: 600;
+    color: #4f4f4f;
+}
+
+.sottolista{
+    list-style-type: none;
+    font-family: Arial;
+    font-weight: 300;
+    color: #4f4f4f;
+    font-size: 15px;
+}
