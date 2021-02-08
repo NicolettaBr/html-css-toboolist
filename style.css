@@ -25,6 +25,33 @@ body{
 }
 
 main{
-    background-color: gray;
+    background-color:#e3e3e3;
     height: 500px;
+}
+
+
+.button{
+    border-top: 35px solid #e3e3e3;
+    padding: 10px;
+    margin-left: 100px ;
+    margin-right: 100px;
+    background-color: white;
+
+}
+
+.botton1{
+    color:white;
+    background-color: #5c8aed;
+    border-radius: 5px;
+    padding: 3px;
+    border: none;
+}
+
+.botton2{
+    color: gray;
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    border: 1px solid gray;
+
 }
