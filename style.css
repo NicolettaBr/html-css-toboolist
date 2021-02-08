@@ -29,10 +29,12 @@ main{
     height: 500px;
 }
 
-
+/* button*/
 .button{
     border-top: 35px solid #e3e3e3;
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 20px;
     margin-left: 100px ;
     margin-right: 100px;
     background-color: white;
@@ -54,4 +56,16 @@ main{
     padding: 3px;
     border: 1px solid gray;
 
+}
+/* fine button*/
+
+/* liste */
+
+.liste{
+    margin-left: 100px;
+    margin-right: 100px;
+   margin-top: 1px;
+    padding: 20px;
+    background-color: white;
+    height: 400px;
 }
