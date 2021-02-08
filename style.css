@@ -1,2 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+body{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.logo{
+    vertical-align: middle;
+}
+
+.logo-text{
+    font-size: 35px;
+    font-family: arial;
+    font-weight: 800;
+    vertical-align: middle;
+}
+
+.header{
+    background-color: white;
+}
+
+main{
+    background-color: gray;
+    height: 500px;
 }
