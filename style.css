@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+.header{
+    margin: 10px;
+    padding-top: 10px;
+}
+
 body{
     margin-left: 200px;
     margin-right: 200px;
@@ -126,3 +131,33 @@ li{
 .botton8{
     background-color:#add413 ;
 }
+
+.check{
+    width: 5px;
+    height: 5px;
+    background-color: white;
+    color: green;
+    border-radius: 50%;
+    border: 1px solid green;
+    text-align: center;
+    line-height: 5px;
+    padding: 1px;
+    margin: 2px;
+    font-size: 10px;  
+}
+
+.cross{ 
+    width: 5px;
+    height: 5px;
+    background-color: white;
+    color: red;
+    border-radius: 50%;
+    border: 1px solid red;
+    text-align: center;
+    line-height: 5px; 
+    padding: 1px;
+    margin: 2px; 
+    font-size: 10px; 
+}
+
+/*fine liste*/
